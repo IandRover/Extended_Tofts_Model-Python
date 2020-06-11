@@ -5,7 +5,7 @@ Solving Extended Tofts Model in a few lines for DCE-MRI.
 
 # Outcome
 ![image](https://github.com/IandRover/Extended_Tofts_Model-Python/blob/master/Outcome.png)
-
+Explanation: In this project, relative concentration was used.
 
 # Reference 
 For original work, please check out here: https://github.com/welcheb/pydcemri. This page gave a python module for processing DCE-MRI data.
